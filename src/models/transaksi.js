@@ -4,6 +4,7 @@ var transaksi = function transaksi(data) {
     (this.idBuy = data.idBuy), (this.JumlahItem = data.JumlahItem), (this.tanggalBeli = data.tanggalBeli), (this.JumlahTotal = data.JumlahTotal)
 };
 
+
 transaksi.getList = () => {
     return new Promise((resolve, reject) => {
         connection.query(
@@ -31,5 +32,6 @@ transaksi.createtransaksi = (newtransaksi, result) => {
 
     })
 };
+
 
 module.exports = transaksi;

@@ -20,7 +20,7 @@
 5. Create Database on **phpmyadmin**
 6. Open Postman desktop application or Chrome web app extension that has installed before
 7. Choose HTTP Method and enter request url.(ex. localhost:3000)
-8. You can see all the end point [here](#Endpoint) or you can see Collection [here](https://www.getpostman.com/collections/ced68f7ecf5eff29625d)
+8. You can see all the end point [here](#Endpoint) or you can see Collection [here](https://www.getpostman.com/collections/a32bf29e0f8897437e40)
 
 ## Instalation
 
